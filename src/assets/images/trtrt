@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="title" content="Infraon Product Suite">
+    <meta name="description" content="IT Infrastructure Management Software Products.">
+    <meta name="keywords" content="Zero Trust Remote Access,  Secure Remote Access,  Privileged access control, Remote Terminal recording, IT Asset Management, Hardware Asset Management, Software Asset Management, Software License Management, Desktop Asset Management">
+    <meta name="robots" content="index, follow">
+	<link rel="canonical" href="https://www.infraon.io/" />
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="2 days">
+    <link rel="shortcut icon" type="image/jpg" href="source_files/images/img/favicon.ico" />
+    <title>Infraon Products | Infaon SecuRA | Infraon Assets </title>
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="source_files/styles/vendor/slick.css">
+    <link rel="stylesheet" href="source_files/styles/vendor/slick-theme.css">
+    <link rel="stylesheet" href="source_files/styles/vendor/aos.css">
+    <link rel="stylesheet" href="source_files/styles/vendor/perfect-scrollbar.css">
+    <link rel="stylesheet" href="source_files/styles/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="infraon"></script>
+    <!-- <script>
+        $(document).ready(function() {
+            $("#assets").click(function() {
+                event.preventDefault();
+                var url = $(this).data('target', '_self');
+                window.open("asset-management-software.html");
+            });
+            $("#secura").click(function() {
+                event.preventDefault();
+                var url = $(this).data('target', '_self');
+                window.open("best-remote-desktop-software-secura.html");
+            });
+        });
+    </script> -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140693265-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-140693265-2');
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Infraon",
+            "image": "https://infraon.io/source_files/images/img/logo.svg",
+            "@id": "https://infraon.io/source_files/images/img/logo.svg",
+            "url": "https://www.infraon.io/aus/",
+            "telephone": "8046567100",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3rd Floor, Site no 14, Axis one 4 dollar Layout, J P Nagar",
+                "addressLocality": "Bangalore",
+                "postalCode": "560078",
+                "addressCountry": "IN"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Infraon",
+            "alternateName": "Infraon  ",
+            "url": "https://www.infraon.io/aus/",
+            "logo": "https://www.infraon.io/aus/source_files/images/img/logo.svg",
+            "sameAs": [
+                "https://www.linkedin.com/company/everestims",
+                "https://twitter.com/everest_ims",
+                "https://www.facebook.com/EverestIMS"
+            ]
+        }
+    </script>
+</head>
+
+<body class="text-left background-home">
+    <!-- Pre Loader Strat  -->
+    <div class="loadscreen" id="preloader">
+
+        <div class="loader spinner-bubble spinner-bubble-primary">
+        </div>
+    </div>
+    <!-- Pre Loader end  -->
+
+    <div class="main-bg">
+
+    </div>
+    <div class="app-landing-wrap landing_wrap ">
+        <div id="landing_wrap">
+
+            <!--=============== Header start ================-->
+            <div class="main-header header-fixed-default" id="home-header">
+                <nav class="navbar container w-100 navbar-expand-lg navbar-transparent">
+
+
+                    <div class="logo">
+                        <a href="https://infraon.io/"> <img src="source_files/images/img/logo.svg" alt="" style="width: 150px;height: 48px;"> </a>
+                    </div>
+                    <div class="menu-toggle navbar-toggler mr-1" role="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                        <div style="margin: auto"></div>
+
+                        <div class="header-part-right">
+
+                            <ul class="navbar-nav mr-auto">
+                                <li class="nav-item active">
+                                    <a class="scroll-to nav-link m-2" href="https://infraon.io/" target="_self">Home <span class="sr-only">(current)</span></a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="scroll-to nav-link m-2 m-2">Products &nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                    <!-- First  Drop Down -->
+                                    <ul>
+                                        <li class="nav-item">
+                                            <a href="best-remote-desktop-software-secura.html" target="_self" class="">Infraon SecuRA</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="asset-management-software.html" target="_self">Infraon Assets</a>
+                                        </li>
+                                        <li class="mb-2">
+                                            <a href="it-service-management.html" target="_self">Infraon Desk</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <!-- drop down menu start -->
+                                <li class="nav-item">
+                                    <a href="#" class="scroll-to nav-link m-2 m-2">Resources &nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                    <!-- First  Drop Down -->
+                                    <ul>
+                                        <li class="nav-item">
+                                            <a href="SuccessStories.html" target="_self">Success Stories</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="UsecaseVideos.html" target="_self">Videos </a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="scroll-to nav-link m-2 m-2">Support &nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                    <!-- First  Drop Down -->
+                                    <ul>
+                                        <li class="nav-item">
+                                            <a href="help&support.html" target="_self">Help and Support</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+
+                                <li class="nav-item pt-2">
+                                    <a class="nav-link" href="https://www.everestims.com/" target="_blank">Company</a>
+                                </li>
+                                <li class="nav-item pad-top">
+                                    <a href="javascript:void(0)" data-cb-type="portal" class="btn half-button text-white float-right btn-login"><span class="link-log">Login</span></a>
+                                </li>
+                            </ul>
+
+
+
+                        </div>
+                    </div>
+                </nav>
+
+            </div>
+
+            <!--=============== Header End ================-->
+
+
+
+
+
+
+
+
+            <!-- ============ Main content start ============= -->
+            <div class="main-content-wrap">
+
+                <!-- intro-section -->
+                <section id="intro-wrap" class="intro1Wrap cust-padding-inf text-left">
+                    <div class="container">
+                        <div class="row banner-vh">
+                            <div class="col-md-6 intro1LeftSection h-100 d-flex justify-content-center flex-column top-padding">
+                                <h1 class="font-weight-bold text-42 mb-3">Powerful products to <br />accelerate efficiency and <br />productivity
+                                </h1>
+                                <p class="text-20 mb-4">Both tools are “On-Premise” offerings, ensuring that you can be confident to local ownership of your data which can be run on machines in your facility, with no third-party access. </p>
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7  pt-2 mb-2 text-left pl-0 mb-2">
+                                    <a href="best-remote-desktop-software-secura.html" class="btn half-button btn-warning float-left"><span class="link-log">Get Infraon SecuRa Free Version</span></a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 intro1RightSection d-flex align-items-center">
+                                <div class="intro1ProductImage">
+                                    <img src="source_files/images/img/illustrator-15.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- end::intro-section -->
+
+                <!-- start-features -->
+                <section id="features-wrap" class="features_wrap mt-5 p-t-80">
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-md-12 section-header mb-5">
+                                <h2 class="Rectangle">Products</h2>
+                                <h2 class="font-weight-bold text-42">The Infraon Suite – hike efficiency <br />and business success</h2>
+                                <h5 class="text-p">Products that bolster your IT Infra, Networks and Service Delivery</h5>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div data-aos="fade-right" class="col-md-6 col-sm-12 mb-lg-0 mb-md-0 mb-4">
+                                <div id="secura" class="card text-left o-hidden card-height ">
+
+                                    <div class="row card_right_content p-3 cur-pointer">
+                                        <div class="col-md-12 col-lg-12">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
+                                                    <a href="https://www.infraon.io/best-remote-desktop-software-secura.html"><img src="source_files/images/img/group-5.png" class="img-responsive Group-5" alt=""></a>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+                                                    <a href="https://www.infraon.io/best-remote-desktop-software-secura.html">
+													<img src="source_files/images/img/infraon_SecuRA_Monochrome_txt.svg" class="img-responsive LogoJustText" alt="">
+
+                                                    <h3 class="Standard">[On-premise]</h3></a>
+
+                                                    <p class="A-Remote-Access-Aut">Zero Trust Remote Access Platform </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12 col-lg-12 pt-2">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 text-left">
+                                                    <p class="mb-0"> <span class="dollar">$</span> <span class="num">20</span><span class="decimal">.00/</span><span class="mo">mo</span></p>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7  pt-2 mb-2 text-center mb-2">
+                                                    <a href="https://www.infraon.io/best-remote-desktop-software-secura.html" class="btn half-button btn-warning float-right"><span class="link-log">Get Free Version</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end of col -->
+                            <div data-aos="fade-left" class="col-md-6 col-sm-12 mb-lg-0 mb-md-0 mb-0">
+                                <div id="assets" class="card text-left o-hidden card-height">
+
+                                    <div class="row card_right_content p-3 cur-pointer">
+                                        <div class="col-md-12 col-lg-12 pt-0 pb-0">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
+                                                    <a href="https://www.infraon.io/asset-management-software.html"><img src="source_files/images/img/group-6.png" class="img-responsive Group-5" alt=""></a>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+                                                    <a href="https://www.infraon.io/asset-management-software.html"><img src="source_files/images/img/infraon_Assets_Monochrome_txt.svg" class="img-responsive LogoJustText" alt="">
+
+                                                    <h3 class="Standard">[On-premise]</h3></a>
+
+                                                    <p class="A-Remote-Access-Aut">Take charge of the Asset Lifecycle and Expense</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12 col-lg-12 pt-2 pb-0">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 text-left">
+                                                    <p class="mb-0"> <span class="dollar">$</span> <span class="num">19</span><span class="decimal">.00/</span><span class="mo">mo</span></p>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7  pt-2 mb-2 text-center mb-2">
+                                                    <a href="https://www.infraon.io/asset-management-software.html" class="btn half-button btn-warning float-right"><span class="link-log">Coming Soon</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end of col -->
+
+
+                        </div>
+                    </div>
+                </section>
+                <!-- end-features -->
+
+                <!-- start-services -->
+                <section id="services-wrap" class="services-wrap services-wrap mt-5 p-t-80">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 section-header text-center mb-5">
+                                <h2 class="font-weight-bold text-42">
+                                    Customers across the world trust us with <br /> their most crucial IT needs and outcomes
+                                </h2>
+
+                            </div>
+
+                            <div data-aos="fade-up" class="service-wrap col-xs-12 col-sm-6 col-md-6 col-lg-3 col-sm-12">
+                                <div class="card base o-hidden pt-0 pb-0 mb-3 Illustrator-03">
+
+                                    <div class="card-body px-0">
+                                        <img src="source_files/images/img/icon-node.svg" class="img-responsive pos" alt="">
+                                        <h3 class="font-weight-bold clients">500k+</h3>
+                                        <h4 class="clients-text pl-2">Node</h4>
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                            <div data-aos="fade-up" class="service-wrap col-xs-12 col-sm-6 col-md-6 col-lg-3 col-sm-12">
+                                <div class="card base card-back o-hidden pt-0 pb-0 mb-3 Illustrator-03">
+
+                                    <div class="card-body px-0">
+                                        <img src="source_files/images/img/icon-remote.svg" class="img-responsive pos" alt="">
+                                        <h3 class="font-weight-bold clients">30k+</h3>
+                                        <h4 class="clients-text pl-2">Remote Management</h4>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div data-aos="fade-up" class="service-wrap col-xs-12 col-sm-6 col-md-6 col-lg-3 col-sm-12">
+                                <div class="card base card-back o-hidden pt-0 pb-0 mb-3 Illustrator-03">
+
+                                    <div class="card-body px-0">
+                                        <img src="source_files/images/img/icon-user.svg" class="img-responsive pos" alt="">
+                                        <h3 class="font-weight-bold clients">10k+</h3>
+                                        <h4 class="clients-text pl-2">Users</h4>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div data-aos="fade-up" class="service-wrap col-xs-12 col-sm-6 col-md-6 col-lg-3 col-sm-12">
+                                <div class="card base card-back o-hidden pt-0 pb-0 mb-3 Illustrator-03">
+
+                                    <div class="card-body px-0">
+                                        <img src="source_files/images/img/icon-client.svg" class="img-responsive pos" alt="">
+                                        <h3 class="font-weight-bold clients">150+</h3>
+                                        <h4 class="clients-text pl-2">Clients</h4>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </section>
+                <!-- end-services -->
+
+
+                <!-- our-works -->
+                <section id="works-wrap" class="work-carousel-wrap">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 section-header text-center mb-5">
+                                <h2 class="font-weight-bold text-42"> Key Customers</h2>
+
+                            </div>
+                        </div>
+                        <div class="row equal-space">
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/blackbox-1.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/1.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/fedbank.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/irtc.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/paytm.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="row pt-4 mb-4 equal-space">
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/Udaan.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4 pt-3">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/Maxis.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4 pt-2">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/uob.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/8.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-2 mb-4">
+                                <div class="intro1ProductImage text-center">
+
+                                    <img src="source_files/images/img/4.png" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+
+                <section id="footer-wrap" class="footer_wrap">
+                    <div class="container">
+                        <div class="row">
+                            <div data-aos="fade-up" class="col-md-2 mb-0 " style="border-right: 1px solid #d0d0d0;border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+                                    <div class="">
+                                        <img src="source_files/images/img/infraon_Logo_Monochrome.svg" class="img-responsive" alt="">
+                                        <p class="footer-add px-0">Infraon suite of products caters to IT, Access, Processes, Services and Compliance.
+                                        </p>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- end of col -->
+                            <div data-aos="fade-up" class="col-md-2 mb-0 mt-4" style="border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+                                    <div class="">
+                                        <h4 class="card-title font-weight-bold">Products</h4>
+                                        <div class="mb-5 lead">
+                                            <ul class="list-inline">
+
+                                                <li class="mb-2">
+                                                    <a href="asset-management-software.html" target="_self">
+                                                        Infraon Assets
+                                                    </a>
+
+                                                </li>
+                                                <li class="mb-2">
+                                                    <a href="best-remote-desktop-software-secura.html" target="_self">
+                                                        Infraon SecuRA
+                                                    </a>
+                                                </li>
+                                                <li class="mb-2">
+                                                    <a href="it-service-management.html" target="_self">Infraon Desk</a>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- end of col -->
+                            <div data-aos="fade-up" class="col-md-2 mb-0 mb-lg-0 mb-md-0 pr-0 mt-4" style="border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+
+                                    <div class="">
+                                        <h4 class="card-title font-weight-bold">Other Infraon Products</h4>
+                                        <div class="mb-5 lead">
+                                            <ul class="list-inline">
+                                                <li class="mb-2">
+                                                    <a href="https://www.everestims.com/infraon-ims" target="_blank">Infraon AIOps</a>
+                                                </li>
+
+                                                <li class="mb-2">
+                                                    <a href="https://www.everestims.com/infraon-nccm" target="_blank">Infraon NCCM</a>
+                                                </li>
+                                                <li class="mb-2">
+                                                    <a href=" https://www.everestims.com/infraon-oss-suite" target="_blank"> Infraon UNMS/OSS</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end of col -->
+                            <div data-aos="fade-up" class="col-md-2 mb-lg-0 mb-md-0 mt-4" style="border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+
+                                    <div class="">
+                                        <h4 class="card-title font-weight-bold">Resources</h4>
+                                        <div class="address-wrap mb-3">
+
+                                            <ul class="list-group list-unstyled">
+                                                <li class="mb-2">
+
+                                                    <a href="SuccessStories.html" target="_self">
+                                                        Success Stories
+                                                    </a>
+                                                </li>
+                                                <li class="mb-2">
+
+                                                    <a href="UsecaseVideos.html" target="_self">
+                                                        Videos
+                                                    </a>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-aos="fade-up" class="col-md-2 mb-lg-0 mb-md-0 mt-4" style="border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+
+                                    <div class="">
+                                        <h4 class="card-title font-weight-bold">Support</h4>
+                                        <div class="address-wrap mb-3">
+
+                                            <ul class="list-group list-unstyled">
+                                                <li class="mb-2">
+                                                    <a href="help&support.html" target="_self">
+                                                        Help & Support
+                                                    </a>
+
+                                                </li>
+                                                <!-- <li class="mb-2"> Forums -->
+                                                <!-- </li> -->
+
+                                            </ul>
+                                        </div>
+                                        <h4 class="card-title font-weight-bold">Review Us On</h4>
+                                        <div class="address-wrap mb-3">
+                                            <ul class="list-group list-unstyled">
+                                                <li class="mb-2">
+                                                    <a href="https://www.goodfirms.co/software/infraon-assets" target="_blank">
+                                                        <img src="source_files/images/img/goodfirm-review.webp" class="img-responsive" alt=""> </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-aos="fade-up" class="col-md-2 mb-lg-0 mb-md-0 mt-4" style="border-bottom: 1px solid #d0d0d0;">
+                                <div class="o-hidden text-left">
+
+                                    <div class="">
+                                        <h4 class="card-title font-weight-bold">Company</h4>
+                                        <div class="address-wrap mb-3">
+
+                                            <ul class="list-group list-unstyled">
+                                                <li class="mb-2">
+                                                    <a href="PrivacyPolicy.html" target="_self">
+                                                        Privacy Policy
+                                                    </a>
+
+                                                </li>
+                                                <li class="mb-2">
+                                                    <a href="TermsOfUse.html" target="_self">
+                                                        Terms of Use
+                                                    </a>
+
+                                                </li>
+                                                <li class="mb-2 ">
+                                                    <a href="ContactUs.html" target="_self ">
+                                                        Contact Us
+                                                    </a>
+
+                                                </li>
+
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end of col -->
+                        </div>
+                    </div>
+                </section>
+
+                <section class="footer_wrap">
+                    <h2 style="display: none;">Footer</h2>
+                    <div class="container">
+                        <div class="col-md-12 col-lg-12">
+                            <div class="row">
+                                <div class="col-md-3 col-lg-3">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="row">
+                                            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-3 pl-0">
+                                                <a class=" text-20 facebook ml-0 social-link" href="https://twitter.com/everest_ims" target="_blank">
+                                                    <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-3  pl-0">
+                                                <a class="text-20 twitter social-link" href="https://www.facebook.com/EverestIMS" target="_blank"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-3  pl-0">
+                                                <a class=" text-20 google social-link" href=" https://www.linkedin.com/company/everestims" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                                            </div>
+
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-9 col-lg-9">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <!-- <p class="copyright-Everes"><a href="EULA and Terms of Use.html" target="_self" class="eula">EULA and Terms of Use</a></p> -->
+                                        </div>
+
+                                        <div class="col-md-6 col-lg-6">
+                                            <p class="copyright-Everes">© Infraon Corp. All rights reserved</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+                <!-- end footer -->
+
+
+            </div>
+            <!-- ============ Main content End ============= -->
+
+
+
+
+        </div>
+    </div>
+
+    <script src="source_files/js/vendor/jquery-3.3.1.min.js"></script>
+    <script src="source_files/js/vendor/bootstrap.bundle.min.js"></script>
+    <script src="source_files/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="source_files/js/vendor/slick.min.js"></script>
+    <script src="source_files/js/es5/scroll.min.js"></script>
+    <script src="source_files/js/es5/slick.script.min.js"></script>
+    <script src="source_files/js/vendor/aos.js"></script>
+    <script src="source_files/js/es5/script.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $("#secura").click(function() {
+                $(location).attr('href', 'best-remote-desktop-software-secura.html');
+            });
+            $("#assets").click(function() {
+                $(location).attr('href', 'asset-management-software.html');
+            });
+        });
+    </script>
+
+</body>
+
+</html>
